@@ -9,10 +9,8 @@
 
 ## 1. GitHub repository link
 
-> I-fill paghuman nimo mag-push (Step 3 sa manual):
-
 ```
-https://github.com/YOUR_USERNAME/flutter_basics_lab
+https://github.com/aceh20/flutter_basics_lab
 ```
 
 ---
